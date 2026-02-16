@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 Hi, I am Ashutosh Soni! 👋<br><br>I am a 4th-year PhD student in the Department of Electrical and Computer Engineering at The Ohio State University, where I am co-advised by Prof. Ness Shroff and Prof. Atilla Eryilmaz.<br><br>I have a broad interest in the general fields of Machine Learning and Artificial Intelligence, driven by a curiosity for how intelligent systems learn and adapt.<br><br>More specifically, my research focuses on Reinforcement Learning and general Online Learning frameworks. Within this domain, I have worked on Transfer Learning and Multi-Armed Bandits.
 
